@@ -2,7 +2,7 @@
   "name": "npm-es6-boilerplate",
   "version": "1.0.0",
   "description": "Boilerplate to write npm modules in es6",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "build": "./node_modules/.bin/babel -d dist src/",
     "test": "jest",
