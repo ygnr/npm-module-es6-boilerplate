@@ -1,8 +1,8 @@
-# npm-es6-boilerplate
+# npm-module-es6-boilerplate
 Boilerplate to write npm modules in ES6 and distribute vanilla ES5 code. This package will work seamlessly on any platform that supports ES5.
 
-[![Build Status](https://travis-ci.org/ygnr/npm-es6-boilerplate.svg?branch=master)](https://travis-ci.org/ygnr/npm-es6-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/ygnr/npm-es6-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/ygnr/npm-es6-boilerplate?branch=master)
+[![Build Status](https://travis-ci.org/ygnr/npm-module-es6-boilerplate.svg?branch=master)](https://travis-ci.org/ygnr/npm-module-es6-boilerplate)
+[![Coverage Status](https://coveralls.io/repos/github/ygnr/npm-module-es6-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/ygnr/npm-module-es6-boilerplate?branch=master)
 
 ## Included
 
@@ -14,9 +14,9 @@ Boilerplate to write npm modules in ES6 and distribute vanilla ES5 code. This pa
 ## Getting started
 
 ```
-git clone git@github.com:ygnr/npm-es6-boilerplate.git
+git clone git@github.com:ygnr/npm-module-es6-boilerplate.git
 
-cd npm-es6-boilerplate          # Change current directory to the newly created one
+cd npm-module-es6-boilerplate   # Change current directory to the newly created one
 yarn install                    # Install dependencies
 ```
 
