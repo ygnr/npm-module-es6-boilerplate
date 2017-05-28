@@ -22,7 +22,7 @@ yarn install                    # Install dependencies
 
 ## Testing
 
-This boilerplate [Facebook Jest](https://facebook.github.io/jest/). Add a
+This boilerplate uses [Facebook Jest](https://facebook.github.io/jest/). Add a
 directory named `__tests__` at any level and start writing tests.
 
 ```
