@@ -1,6 +1,6 @@
 {
   "name": "npm-module-es6-boilerplate",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Boilerplate to write npm modules in es6",
   "main": "./dist/index.js",
   "scripts": {
