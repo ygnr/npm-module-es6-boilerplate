@@ -10,6 +10,7 @@ Boilerplate to write npm modules in ES6 and distribute vanilla ES5 code. This pa
 - [Jest](https://facebook.github.io/jest/) - Tests made easy and includes coverage report
 - [Coveralls](https://coveralls.io/) - Ensure that all your new code is fully covered, and see coverage trends emerge.
 - [Travis](https://travis-ci.org) - Deploy with Confidence.
+- Auto publish to npm on every build.
 
 ## Getting started
 
